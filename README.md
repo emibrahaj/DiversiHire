@@ -1,5 +1,6 @@
 # swe302-resumecoverlettergen
 An application dedicated to generating resumes and cover letters.
+https://www.diversihire.net/
 
 ## Installation
 ### frontend
